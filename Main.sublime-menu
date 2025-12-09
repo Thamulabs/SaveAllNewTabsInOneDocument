@@ -1,0 +1,9 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            { "caption": "Save All New Tabs to One File...", "command": "save_new_tabs" }
+        ]
+    }
+]
