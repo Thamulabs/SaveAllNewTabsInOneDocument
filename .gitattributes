@@ -1,0 +1,5 @@
+.gitattributes export-ignore
+.gitignore export-ignore
+*.sublime-project export-ignore
+*.sublime-workspace export-ignore
+s.json export-ignore
