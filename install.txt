@@ -1,0 +1,3 @@
+Thanks for installing Save All New Tabs In One Document!
+
+Use 'Save All New Tabs to One File' from the Command Palette to clean up your workspace.
